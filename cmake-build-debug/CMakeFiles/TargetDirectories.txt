@@ -1,0 +1,3 @@
+C:/Users/Ors/CLionProjects/NHF_2/cmake-build-debug/CMakeFiles/NHF_2.dir
+C:/Users/Ors/CLionProjects/NHF_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ors/CLionProjects/NHF_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

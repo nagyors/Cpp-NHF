@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Ors/CLionProjects/NHF_2/ember.h
+iostream
+-
+string
+-
+
+C:/Users/Ors/CLionProjects/NHF_2/lista.h
+ember.h
+C:/Users/Ors/CLionProjects/NHF_2/ember.h
+
+C:/Users/Ors/CLionProjects/NHF_2/main.cpp
+iostream
+-
+string
+-
+ember.h
+C:/Users/Ors/CLionProjects/NHF_2/ember.h
+lista.h
+C:/Users/Ors/CLionProjects/NHF_2/lista.h
+szamok.h
+C:/Users/Ors/CLionProjects/NHF_2/szamok.h
+opcionalis.h
+C:/Users/Ors/CLionProjects/NHF_2/opcionalis.h
+
+C:/Users/Ors/CLionProjects/NHF_2/opcionalis.h
+ember.h
+C:/Users/Ors/CLionProjects/NHF_2/ember.h
+
+C:/Users/Ors/CLionProjects/NHF_2/szamok.h
+ember.h
+C:/Users/Ors/CLionProjects/NHF_2/ember.h
+
